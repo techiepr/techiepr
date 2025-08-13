@@ -5,5 +5,3 @@
   <img src="AWS%20CLF-02.png" alt="AWS Certified Cloud Practitioner Badge" width="300"/>
 </p>  
 
-
-![AWS Certified Cloud Practitioner Badge](https://github.com/techiepr/techiepr/blob/main/AWS%20CLF-02.png)
